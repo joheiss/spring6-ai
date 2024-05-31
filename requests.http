@@ -1,0 +1,8 @@
+POST http://localhost:8080/ask
+Content-Type: application/json
+
+{
+    "question": "How far is the moon away from earth?"
+}
+
+###
